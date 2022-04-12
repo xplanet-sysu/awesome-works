@@ -4,9 +4,9 @@ A curated list of our works.
 
 **Table of Content**
 
-- Survey
-- Fraud Detection
-- Networks Robustness 
+- [Survey](#survey)
+- [Fraud Detection](#fraud-detection)
+- [Networks Robustness](#networks-robustness)
 
 ## Survey
 | Year | Title | Venue | Paper | Code |
