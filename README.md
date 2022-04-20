@@ -6,7 +6,9 @@ A curated list of our works.
 
 - [Survey](#survey)
 - [Anomaly Detection](#anomaly-detection)
-- [Transaction Pattern]()
+- [Transaction Pattern](#transaction-pattern)
+- [Market Analysis](#market-analysis)
+- [Network Portrait](#network-portrait)
 - [Networks Robustness](#networks-robustness)
 
 ## Survey
@@ -26,6 +28,16 @@ A curated list of our works.
 | Year | Title| Venue | Paper | Code |
 | --- | ---| --- | --- | --- |
 | 2021 | Evolution of Ethereum Transaction Relationships: Toward Understanding Global Driving Factors From Microscopic Patterns | IEEE Transactions on Computational Social Systems | [Link](http://xblock.pro/#/paper/1) | Link |
+
+## Market Analysis
+| Year | Title| Venue | Paper | Code |
+| --- | ---| --- | --- | --- |
+| 2021 | Deep learning-based transaction prediction in Ethereum | International Conference on Blockchain and Trustworthy Systems | Link | Link |
+
+## Network Portrait
+| Year | Title| Venue | Paper | Code |
+| --- | ---| --- | --- | --- |
+| 2021 | Portraits of Typical Accounts in Ethereum Transaction Network | International Conference on Blockchain and Trustworthy Systems | Link | Link |
 
 ## Networks Robustness 
 | Year | Title| Venue | Paper | Code |
