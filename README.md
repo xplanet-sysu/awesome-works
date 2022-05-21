@@ -15,6 +15,7 @@ A curated list of our works.
 | Year | Title | Venue | Paper | Code |
 | --- | ---| --- | --- | --- |
 | 2021 | Analysis of cryptocurrency transactions from a network perspective: An overview | Journal of Network and Computer Applications | [Link](http://xblock.pro/#/paper/37) | Link |
+| 2019 | Introduction to Focus Issue: Complex Network Approaches to Cyber-Physical Systems | Chaos: An Interdisciplinary Journal of Nonlinear Science | [Link](https://aip.scitation.org/doi/full/10.1063/1.5126230) | Link |
 
 ## Anomaly Detection
 | Year | Title| Venue | Paper | Code |
