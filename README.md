@@ -53,7 +53,7 @@ A curated list of our works.
 | 2020 | T-EDGE: Temporal WEighted MultiDiGraph Embedding for Ethereum Transaction Network Analysis | Frontiers in Physics | [Link](https://www.frontiersin.org/articles/10.3389/fphy.2020.00204/full) | Link |
 | 2020 |Exploring EOSIO via Graph Characterization | International Conference on Blockchain and Trustworthy Systems | [Link](https://link.springer.com/chapter/10.1007/978-981-15-9213-3_37) | Link |
 | 2020 |An Asymmetric Interdependent Networks Model for Cyber-Physical Systems | Chaos | [Link](https://aip.scitation.org/doi/full/10.1063/1.5139254) | Link |
-| 2020 | Modeling and understanding ethereum transaction records via a complex network approach | IEEE Transactions on Circuits and Systems II: Express Briefs | [Link](https://ieeexplore.ieee.org/abstract/document/8964468) | Link |
+| 2020 | Modeling and understanding ethereum transaction records via a complex network approach | IEEE Transactions on Circuits and Systems II: Express Briefs | [Link](https://ieeexplore.ieee.org/abstract/document/8964468) | [Link](http://xblock.pro/#/dataset/16) |
 | 2019 |Sequential topology recovery of complex power systems based on reinforcement learning | Physica A: Statistical Mechanics and its Applications |[Link](https://www.sciencedirect.com/science/article/pii/S037843711931427X) | Link |
 | 2018 |Sequential Restorations of Complex Networks After Cascading Failures | IEEE Transactions on Systems, Man, and Cybernetics: Systems |[Link](https://ieeexplore.ieee.org/abstract/document/8509205) | Link |
 
