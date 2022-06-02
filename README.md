@@ -1,4 +1,4 @@
-# awesome-works
+# awesome-work
 
 A curated list of our works.
 
