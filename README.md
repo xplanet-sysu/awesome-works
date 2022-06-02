@@ -1,6 +1,6 @@
 # awesome-work
 
-A curated list of our works.
+A curated list of our work.
 
 **Table of Content**
 
