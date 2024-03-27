@@ -22,7 +22,7 @@ A curated list of our work.
 | Year | Title| Venue | Paper | Code |
 | --- | ---| --- | --- | --- |
 | 2024 | DAppFL: Just-in-Time Fault Localization for Decentralized Applications in Web3 | ACM SIGSOFT International Symposium on Software Testing and Analysis Proceedings (ISSTA) | Link | <a id="dappfl" href="https://github.com/wuzhy1ng/DAppFL">Link</a> |
-<span id="paper_dappfl"></span>| 2024 | DAppFL: Just-in-Time Fault Localization for Decentralized Applications in Web3 | ACM SIGSOFT International Symposium on Software Testing and Analysis Proceedings (ISSTA) | Link | [Link](https://github.com/wuzhy1ng/DAppFL) |
+| <span id="paper_dappfl"></span>2024 | DAppFL: Just-in-Time Fault Localization for Decentralized Applications in Web3 | ACM SIGSOFT International Symposium on Software Testing and Analysis Proceedings (ISSTA) | Link | [Link](https://github.com/wuzhy1ng/DAppFL) |
 | 2021 | Detecting Mixing Services via Mining Bitcoin Transaction Network With Hybrid Motifs | IEEE Transactions on Systems, Man, and Cybernetics: Systems | [Link](http://xblock.pro/#/paper/44) | [Link](http://xblock.pro/#/dataset/8) |
 | 2021 | Do cryptocurrency exchanges fake trading volumes? An empirical analysis of wash trading based on data mining | Physica A: Statistical Mechanics and its Applications | [Link](https://www.sciencedirect.com/science/article/pii/S0378437121006786) | Link |
 | 2021 | Transaction-based Hidden Strategies Against General Phishing Detection Framework on Ethereum | IEEE International Symposium on Circuits and Systems | [Link](https://ieeexplore.ieee.org/abstract/document/9401091) | Link |
